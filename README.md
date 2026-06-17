@@ -27,5 +27,6 @@ Sales Management
 Logistics and Supply Chain Department
 
 ACL
-Access control list is also applied for more security.the acl is applied in such a way that the HR can access any of the server but other department system can't access all the servers. there are servers such as the google, firefox ,ftp and dns servers these severs can be accessed any of the system
-and there are totaly three department which are markeeting ,engineering and finace so there are specific servers to each department which can be accessed by the deparment system execpt for the HR department and here the port number 443 is used in tcp so the to access the site https:// need to be used 
+
+Access control list is also applied for more security.the acl is applied in such a way that the HR can access any of the server but other department system can't access all the servers. there are servers such as the google, firefox ,ftp and dns these severs can be accessed by any of the system.
+and there are totaly three department which are markeeting ,engineering and finace. so there are specific servers to each department which can be accessed by the deparment system execpt for the HR department which is authorised to access any of the server. and here the port number 443 is used in tcp so to access the site https:// need to be used 
