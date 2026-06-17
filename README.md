@@ -7,23 +7,34 @@ EIGRP Network
 The following departments are configured using EIGRP:
 
 HR Department
+
 accounting Department
+
 development Department
+
 training Department
 
 The following departments are configured in OSPF Area 0:
 
 Research and Development
+
 Data Center
+
 Cyber Security Department
+
 Developer Department
+
 OSPF Area 1
+
 
 The following departments are configured in OSPF Area 1:
 
 Distribution Department
+
 Remote Office
+
 Sales Management
+
 Logistics and Supply Chain Department
 
 ACL
